@@ -6,8 +6,8 @@ Este repositório contém o **Manual Didático** utilizado nas disciplinas:
 - **OPT012 – Interfaces Não Convencionais**
 - Disciplinas correlatas do curso de **Bacharelado em Ciência da Computação** da **UTFPR – Campus Campo Mourão**
 
-👨‍🏫 **Autor:** Prof. Dr. Rodrigo Hübner
-📅 **Última atualização:** 05/06/2026
+👨‍🏫 **Autor:** Prof. Dr. Rodrigo Hübner  
+📅 **Última atualização:** 05/06/2026  
 
 ---
 
@@ -44,15 +44,15 @@ O fluxo de estudo segue uma sequência progressiva, cobrindo:
 
 Os materiais estão organizados principalmente em **Jupyter Notebooks**, que funcionam como roteiros práticos:
 
-├── 01-load_dataset.ipynb
-├── 02-visualization.ipynb
-├── 03-protocol.ipynb
-├── 04-preprocessing.ipynb
-├── 04b-filters.ipynb
-├── 05-features.ipynb
-├── 06-classification.ipynb
-├── 07-tunning.ipynb
-├── 08-rna.ipynb
+├── 01-load_dataset.ipynb  
+├── 02-visualization.ipynb   
+├── 03-protocol.ipynb  
+├── 04-preprocessing.ipynb  
+├── 04b-filters.ipynb  
+├── 05-features.ipynb  
+├── 06-classification.ipynb  
+├── 07-tunning.ipynb  
+├── 08-rna.ipynb  
 
 
 ### 📓 Notebooks
