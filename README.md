@@ -7,7 +7,7 @@ Este repositório contém o **Manual Didático** utilizado nas disciplinas:
 - Disciplinas correlatas do curso de **Bacharelado em Ciência da Computação** da **UTFPR – Campus Campo Mourão**
 
 👨‍🏫 **Autor:** Prof. Dr. Rodrigo Hübner  
-📅 **Última atualização:** 05/06/2026  
+📅 **Última atualização:** 12/05/2026  
 
 ---
 
